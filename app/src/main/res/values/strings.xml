@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_three_tabbed">three_tabbed</string>
+    <string name="tab_text_1">Contents</string>
+    <string name="tab_text_2">Bookmarks</string>
+    <string name="tab_text_3">Notes</string>
+</resources>
